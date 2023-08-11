@@ -2,3 +2,6 @@ pan
 avena
 frutas
 carnes
+limpieza
+verduras
+fideos
